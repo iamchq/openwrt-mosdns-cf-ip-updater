@@ -95,6 +95,23 @@ uci get mosdns.config.cloudflare_ip
 | 配置提交失败 | 1. 检查 mosdns 是否安装<br>2. 验证 UCI_CONFIG 路径 |
 | 服务启动失败 | 1. 检查 mosdns 运行状态<br>2. 查看详细日志 `/var/log/mosdns.log` |
 
+## 相关资源推荐
+
+### 纯真社区版 IP 地址库 (CZ88.NET)
+
+支持 IPv4 和 IPv6 查询，提供免费下载与使用授权。自 2005 年起持续更新，满足基础定位需求。
+
+*   **免费下载 & 申请授权：** [https://cz88.net/geo-public](https://cz88.net/geo-public)
+*   **官方网站：** [https://cz88.net/](https://cz88.net/)
+
+除社区版外，纯真还提供**商业版 IP 地址数据**，定位更精准，服务更完善。依托近 20 年的"网络空间拓扑测绘 + 移动位置大数据"技术沉淀，其商业数据在以下领域具备深度洞察：
+
+*   IP 精准定位
+*   IP 网络风险识别
+*   使用场景分析
+*   网络类型判断
+*   秒拨/VPN/代理侦测
+*   爬虫识别与真人度分析
 ## 贡献指南
 
 欢迎通过 Issue 或 PR 提交：
